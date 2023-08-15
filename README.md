@@ -1,4 +1,4 @@
-# CheckHARD: Checking Hard Labels for Adversarial Text Detection, Prediction Correction, and Perturbed Word Suggestion
+# OneWORD: Adversarial Text Detection and Prediction Restoration Using One-Word Perturbation
 
 ## Dependencies
 
